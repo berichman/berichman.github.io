@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>科研团队</title>
+    <script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>
+    <script src="js/jquery.SuperSlide.2.1.1.js" type="text/javascript"></script>
+    <link href="css/zui.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="css/simple-calendar.css">
+
+    <script type="text/jacascrip" src="js/simple-calendar.js">
+
+
+    </script>
+    <script type="text/javascript">
+        var myCalendar = new SimpleCalendar("#container");
+    </script>
+    <!-- ZUI Javascript 依赖 jQuery -->
+    <script src="//cdn.bootcss.com/zui/1.6.0/lib/jquery/jquery.js"></script>
+    <!-- ZUI 标准版压缩后的 JavaScript 文件 -->
+
+    <script src="//cdn1.lncld.net/static/js/2.2.1/av-min.js"></script>
+    <script src="js/zui.js"></script>
+    <script src="js/zui.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+    <script src="https://cdn1.lncld.net/static/js/av-min-1.2.1.js"></script>
+    <script src="lib/chart/zui.chart.min.js"></script>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/echarts.common.min.js"></script>
+    <!-- jQuery -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+            crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+        var APP_ID = 'JPUdpFBVJsL6kdSlH4O0trIK-gzGzoHsz';
+        var APP_KEY = 'pfIKluDom2CK8keSvg4DeOT9';
+
+        AV.init({
+            appId: APP_ID,
+            appKey: APP_KEY
+        });
+
+
+    </script>
+
+    <style>
+        .area {
+
+            width: 100%;
+            height: auto;
+            border: 2px solid;
+            margin: auto;
+        }
+
+        .rightarea {
+
+            padding-top: 20px;
+            float: left;
+            width: 80%;
+
+        }
+
+        .leftarea {
+
+            float: left;
+            width: 20%;
+
+        }
+
+        .main {
+            padding-top: 200px;
+            width: 1020px;
+            height: 500px;
+
+            margin: 0px auto;
+        }
+    </style>
+
+
+</head>
+<body>
+<nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+        <!-- 导航头部 -->
+        <div class="navbar-header">
+            <a class="navbar-brand" style="margin-left: 100px" href="systemmanage.html">极端实验室</a>
+        </div>
+        <!-- 导航项目 -->
+        <div class="collapse navbar-collapse navbar-collapse-example">
+
+            <!-- 右侧的导航项目 -->
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="your/nice/url">帮助</a></li>
+                <li class="dropdown">
+                    <a href="your/nice/url" class="dropdown-toggle" data-toggle="dropdown">探索 <b class="caret"></b></a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="your/nice/url">个人资料</a></li>
+                        <li><a href="changepsd.html">修改密码</a></li>
+                        <li><a href="login.html">退出登陆 </a></li>
+
+                    </ul>
+                </li>
+            </ul>
+        </div><!-- END .navbar-collapse -->
+    </div>
+</nav>
+<div>
+    <script>(function (T, h, i, n, k, P, a, g, e) {
+        g = function () {
+            P = h.createElement(i);
+            a = h.getElementsByTagName(i)[0];
+            P.src = k;
+            P.charset = "utf-8";
+            P.async = 1;
+            a.parentNode.insertBefore(P, a)
+        };
+        T["ThinkPageWeatherWidgetObject"] = n;
+        T[n] || (T[n] = function () {
+            (T[n].q = T[n].q || []).push(arguments)
+        });
+        T[n].l = +new Date();
+        if (T.attachEvent) {
+            T.attachEvent("onload", g)
+        } else {
+            T.addEventListener("load", g, false)
+        }
+    }(window, document, "script", "tpwidget", "//widget.seniverse.com/widget/chameleon.js"))</script>
+    <script>tpwidget("init", {
+        "flavor": "bubble",
+        "location": "WX4FBXXFKE4F",
+        "geolocation": "enabled",
+        "position": "top-left",
+        "margin": "10px 10px",
+        "language": "auto",
+        "unit": "c",
+        "theme": "chameleon",
+        "uid": "U7F3C5AD97",
+        "hash": "13013b3b9430c67bcddecaed2cc7da26"
+    });
+    tpwidget("show");</script>
+
+    <div class="leftarea">
+        <nav class="menu" data-ride="menu" style="width: 200px">
+
+            <ul class="nav nav-primary">
+                <li ><a href="newnotice.html"><i class="icon icon-th"></i> 新公告</a></li>
+                <li ><a href="newtrends.html"><i class="icon icon-user"></i> 新动态</a></li>
+                <li ><a href="newae.html"><i class="icon icon-user"></i> 学术交流</a></li>
+                <li ><a href="newgain.html"><i class="icon icon-user"></i> 科研成果</a></li>
+                <li class="active"><a href="javascript:;"><i class="icon icon-user"></i> 科研团队</a></li>
+                <li class="nav-parent" style="">
+                    <a href="javascript:;"><i class="icon icon-time"></i> 系统管理</a>
+                    <ul class="nav">
+                        <li><a href="usermanage.html">用户管理</a></li>
+                        <li><a href="rolemanage.html">角色管理</a></li>
+                    </ul>
+                </li>
+
+                </li>
+            </ul>
+        </nav>
+    </div>
+</div>
+
+<div class="rightarea">
+    <h3>当前位置</h3>
+    <ol class="breadcrumb">
+        <li><a href="systemmanage.html">首页</a></li>
+        <li><a href="teammanage.html">团队管理</a></li>
+        <li class="active"><a href="">添加成员</a></li>
+
+    </ol>
+    <div class="input-group" style="width: 1080px">
+        <span class="input-group-addon">姓名</span>
+        <input type="text" class="form-control" placeholder="姓名">
+        <span class="input-group-addon">职称</span>
+        <input type="text" class="form-control" placeholder="职称">
+        <span class="input-group-addon">学历</span>
+        <input type="text" class="form-control" placeholder="学历">
+
+    </div>
+    <div class="rightarea">
+        <div id="uploaderExample" class="uploader leftarea" style="padding-top: 30px">
+            <div class="file-list" data-drag-placeholder="请拖拽文件到此处"></div>
+            <button type="button" class="btn btn-primary uploader-btn-browse"><i class="icon icon-cloud-upload"></i> 上传照片</button>
+        </div>
+        <script type="text/javascript">
+
+            function click() {
+                $('#uploaderExample').uploader({
+                    autoUpload: true,            // 当选择文件后立即自动进行上传操作
+                    url: 'your/file/upload/url'  // 文件上传提交地址
+                });
+            }
+
+        </script>
+        <div >
+
+
+            <div class="rightarea">
+                <H3>简介编辑</H3>
+
+                <script type="text/javascript" charset="utf-8" src="edit/ueditor.config.js"></script>
+                <script type="text/javascript" charset="utf-8" src="edit/ueditor.all.min.js"> </script>
+                <!--建议手动加在语言，避免在ie下有时因为加载语言失败导致编辑器加载失败-->
+                <!--这里加载的语言文件会覆盖你在配置项目里添加的语言类型，比如你在配置项目里配置的是英文，这里加载的中文，那最后就是中文-->
+                <script type="text/javascript" charset="utf-8" src="edit/lang/zh-cn/zh-cn.js"></script>
+
+                <div>
+
+                    <script id="editor" type="text/plain" style="width:1024px;height:500px;"></script>
+                </div>
+                <div id="btns">
+                    <div>
+
+                        <button onclick="getPlainTxt()" class="btn btn-danger">发布</button>
+
+                    </div>
+                </div>
+                <div>
+
+                </div>
+
+                <script type="text/javascript">
+
+                    //实例化编辑器
+                    //建议使用工厂方法getEditor创建和引用编辑器实例，如果在某个闭包下引用该编辑器，直接调用UE.getEditor('editor')就能拿到相关的实例
+                    var ue = UE.getEditor('editor');
+
+
+                    function isFocus(e){
+                        alert(UE.getEditor('editor').isFocus());
+                        UE.dom.domUtils.preventDefault(e)
+                    }
+                    function setblur(e){
+                        UE.getEditor('editor').blur();
+                        UE.dom.domUtils.preventDefault(e)
+                    }
+                    function insertHtml() {
+                        var value = prompt('插入html代码', '');
+                        UE.getEditor('editor').execCommand('insertHtml', value)
+                    }
+                    function createEditor() {
+                        enableBtn();
+                        UE.getEditor('editor');
+                    }
+                    function getAllHtml() {
+                        alert(UE.getEditor('editor').getAllHtml())
+                    }
+                    function getContent() {
+                        var arr = [];
+                        arr.push("使用editor.getContent()方法可以获得编辑器的内容");
+                        arr.push("内容为：");
+                        arr.push(UE.getEditor('editor').getContent());
+                        alert(arr.join("\n"));
+                    }
+                    function getPlainTxt() {
+                        var arr = [];
+
+                        if (UE.getEditor('editor').hasContents()){
+                            arr.push("使用editor.getPlainTxt()方法可以获得编辑器的带格式的纯文本内容");
+                            arr.push("内容为：");
+                            arr.push(UE.getEditor('editor').getPlainTxt());
+
+                        }else {
+                            alert("编辑器内容为空");
+                        }
+
+       }
+                    function setContent(isAppendTo) {
+                        var arr = [];
+                        arr.push("使用editor.setContent('欢迎使用ueditor')方法可以设置编辑器的内容");
+                        UE.getEditor('editor').setContent('欢迎使用ueditor', isAppendTo);
+                        alert(arr.join("\n"));
+                    }
+                    function setDisabled() {
+                        UE.getEditor('editor').setDisabled('fullscreen');
+                        disableBtn("enable");
+                    }
+
+                    function setEnabled() {
+                        UE.getEditor('editor').setEnabled();
+                        enableBtn();
+                    }
+
+                    function getText() {
+                        //当你点击按钮时编辑区域已经失去了焦点，如果直接用getText将不会得到内容，所以要在选回来，然后取得内容
+                        var range = UE.getEditor('editor').selection.getRange();
+                        range.select();
+                        var txt = UE.getEditor('editor').selection.getText();
+                        alert(txt)
+                    }
+
+                    function getContentTxt() {
+                        var arr = [];
+
+
+                        if (UE.getEditor('editor').hasContents()){
+                            arr.push("使用editor.getContentTxt()方法可以获得编辑器的纯文本内容");
+                            arr.push("编辑器的纯文本内容为：");
+                            alert(arr.join("\n"));
+
+                        }else {
+                            alert("编辑器内容为空");
+                        }
+
+
+
+                    }
+
+                    function setFocus() {
+                        UE.getEditor('editor').focus();
+                    }
+                    function deleteEditor() {
+                        disableBtn();
+                        UE.getEditor('editor').destroy();
+                    }
+                    function disableBtn(str) {
+                        var div = document.getElementById('btns');
+                        var btns = UE.dom.domUtils.getElementsByTagName(div, "button");
+                        for (var i = 0, btn; btn = btns[i++];) {
+                            if (btn.id == str) {
+                                UE.dom.domUtils.removeAttributes(btn, ["disabled"]);
+                            } else {
+                                btn.setAttribute("disabled", "true");
+                            }
+                        }
+                    }
+                    function enableBtn() {
+                        var div = document.getElementById('btns');
+                        var btns = UE.dom.domUtils.getElementsByTagName(div, "button");
+                        for (var i = 0, btn; btn = btns[i++];) {
+                            UE.dom.domUtils.removeAttributes(btn, ["disabled"]);
+                        }
+                    }
+
+                    function getLocalData () {
+                        alert(UE.getEditor('editor').execCommand( "getlocaldata" ));
+                    }
+
+                    function clearLocalData () {
+                        UE.getEditor('editor').execCommand( "clearlocaldata" );
+                        alert("已清空草稿箱")
+                    }
+                </script>
+            </div>
+        </div>
+
+    </div>
+    </div>
+</div>
+</body>
+</html>

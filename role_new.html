@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>角色管理</title>
+    <script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>
+    <script src="js/jquery.SuperSlide.2.1.1.js" type="text/javascript"></script>
+    <link href="css/zui.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="css/simple-calendar.css">
+
+    <script type="text/jacascrip" src="js/simple-calendar.js">
+
+
+    </script>
+    <script type="text/javascript">
+        var myCalendar = new SimpleCalendar("#container");
+    </script>
+    <!-- ZUI Javascript 依赖 jQuery -->
+    <script src="//cdn.bootcss.com/zui/1.6.0/lib/jquery/jquery.js"></script>
+    <!-- ZUI 标准版压缩后的 JavaScript 文件 -->
+
+    <script src="//cdn1.lncld.net/static/js/2.2.1/av-min.js"></script>
+    <script src="js/zui.js"></script>
+    <script src="js/zui.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+    <script src="https://cdn1.lncld.net/static/js/av-min-1.2.1.js"></script>
+    <script src="lib/chart/zui.chart.min.js"></script>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/echarts.common.min.js"></script>
+    <!-- jQuery -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+            crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+        var APP_ID = 'JPUdpFBVJsL6kdSlH4O0trIK-gzGzoHsz';
+        var APP_KEY = 'pfIKluDom2CK8keSvg4DeOT9';
+
+        AV.init({
+            appId: APP_ID,
+            appKey: APP_KEY
+        });
+
+
+    </script>
+
+    <style>
+        .area {
+
+            width: 100%;
+            height: auto;
+            border: 2px solid;
+            margin: auto;
+        }
+
+        .rightarea {
+
+            padding-top: 20px;
+            float: left;
+            width: 80%;
+
+        }
+
+        .leftarea {
+
+            float: left;
+            width: 20%;
+
+        }
+
+        .main {
+            padding-top: 200px;
+            width: 1020px;
+            height: 500px;
+
+            margin: 0px auto;
+        }
+    </style>
+
+
+</head>
+<body>
+<nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+        <!-- 导航头部 -->
+        <div class="navbar-header">
+            <a class="navbar-brand" style="margin-left: 100px" href="systemmanage.html">极端实验室</a>
+        </div>
+        <!-- 导航项目 -->
+        <div class="collapse navbar-collapse navbar-collapse-example">
+
+            <!-- 右侧的导航项目 -->
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="your/nice/url">帮助</a></li>
+                <li class="dropdown">
+                    <a href="your/nice/url" class="dropdown-toggle" data-toggle="dropdown">探索 <b class="caret"></b></a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="your/nice/url">个人资料</a></li>
+                        <li><a href="changepsd.html">修改密码</a></li>
+                        <li><a href="login.html">退出登陆 </a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div><!-- END .navbar-collapse -->
+    </div>
+</nav>
+<div>
+    <script>(function (T, h, i, n, k, P, a, g, e) {
+        g = function () {
+            P = h.createElement(i);
+            a = h.getElementsByTagName(i)[0];
+            P.src = k;
+            P.charset = "utf-8";
+            P.async = 1;
+            a.parentNode.insertBefore(P, a)
+        };
+        T["ThinkPageWeatherWidgetObject"] = n;
+        T[n] || (T[n] = function () {
+            (T[n].q = T[n].q || []).push(arguments)
+        });
+        T[n].l = +new Date();
+        if (T.attachEvent) {
+            T.attachEvent("onload", g)
+        } else {
+            T.addEventListener("load", g, false)
+        }
+    }(window, document, "script", "tpwidget", "//widget.seniverse.com/widget/chameleon.js"))</script>
+    <script>tpwidget("init", {
+        "flavor": "bubble",
+        "location": "WX4FBXXFKE4F",
+        "geolocation": "enabled",
+        "position": "top-left",
+        "margin": "10px 10px",
+        "language": "auto",
+        "unit": "c",
+        "theme": "chameleon",
+        "uid": "U7F3C5AD97",
+        "hash": "13013b3b9430c67bcddecaed2cc7da26"
+    });
+    tpwidget("show");</script>
+
+    <div class="leftarea">
+        <nav class="menu" data-ride="menu" style="width: 200px">
+
+            <ul class="nav nav-primary">
+                <li ><a href="newnotice.html"><i class="icon icon-th"></i> 新公告</a></li>
+                <li ><a href="newtrends.html"><i class="icon icon-user"></i> 新动态</a></li>
+                <li ><a href="newae.html"><i class="icon icon-user"></i> 学术交流</a></li>
+                <li ><a href="newgain.html"><i class="icon icon-user"></i> 科研成果</a></li>
+                <li ><a href="teammanage.html"><i class="icon icon-user"></i> 科研团队</a></li>
+                <li class="nav-parent" style="">
+                    <a href="javascript:;"><i class="icon icon-time"></i> 系统管理</a>
+                    <ul class="nav">
+                        <li class="active"><a href="javascript:;">用户管理</a></li>
+                        <li><a href="rolemanage.html">角色管理</a></li>
+                    </ul>
+                </li>
+
+                </li>
+            </ul>
+        </nav>
+    </div>
+</div>
+<div class="rightarea" style="width: 1080px">
+    <h3>当前位置</h3>
+    <ol class="breadcrumb">
+        <li><a href="systemmanage.html">首页</a></li>
+        <li><a href="systemmanage.html">系统管理</a></li>
+        <li class="active"><a href="">角色管理</a></li>
+
+    </ol>
+    <div class="input-group">
+
+        <span class="input-group-addon">角色名</span>
+        <input type="text" class="form-control" placeholder="角色名">
+
+
+        </div>
+<br>
+    角色权限：
+    <div class="checkbox">
+        <label>
+            <input type="checkbox"> 公告发布
+        </label>
+        <label>
+            <input type="checkbox"> 动态发布
+        </label>
+        <label>
+            <input type="checkbox"> 学术交流动态
+        </label>
+        <label>
+            <input type="checkbox"> 科研成果管理
+        </label>
+        <label>
+            <input type="checkbox"> 科研团队管理
+        </label>
+        <label>
+            <input type="checkbox"> 系统管理
+        </label>
+
+
+    </div>
+
+
+    <footer style="padding-top: 50px">
+        <button class="btn btn-danger">保存</button>
+    </footer>
+</div>
+
+
+</body>
+</html>
