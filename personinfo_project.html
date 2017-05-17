@@ -96,11 +96,11 @@
             <img src="images/page_pic2.jpg" /> 当前位置：
             <ol class="breadcrumb">
                 <li><a href="index.htm/">首页</a></li>
-                <li  class="active">学术报告</li>
+                <li id="type"  class="active">学术报告</li>
             </ol>
         </div>
         <div class="list" style="width: 800px;padding-top: 30px">
-            <div class="items items-hover">
+            <div class="items items-hover" id="paperlist">
                 <div class="item">
                     <div class="item-heading">
                         <h4><a href="personinfo_papers.html?type=1">文章标题</a></h4>
@@ -158,5 +158,52 @@
     jQuery(".slideBox").slide({mainCell:".bd ul",autoPlay:true});
 </script>
 
+<script type="text/javascript">
+    function getQueryString(name) {
+        var reg = new RegExp("(^|&amp;)" + name + "=([^&amp;]*)(&amp;|$)", "i");
+        var r = window.location.search.substr(1).match(reg);
+        if (r != null) return unescape(r[2]); return null;
+    }
+    var html;
+    var list=" ";
+    if (getQueryString("type")==="5"){
+        html="<a>研究成果</a>"
+        for ( i=0;i < 5; i++ ){
+            list=list+"<div class=\"item\"><div class=\"item-heading\"> <h4><a href=\"personinfo_papers.html?type=1\">研究成果\</a></h4> </div></div>"
+
+        }
+        document.getElementById("paperlist").innerHTML=list;
+        document.getElementById('type').innerHTML=html;
+    }else if (getQueryString("type")==="6"){
+
+        html="<a>研究生</a>"
+        for ( i=0;i < 5; i++ ){
+            list=list+"<div class=\"item\"><div class=\"item-heading\"> <h4><a href=\"personinfo_papers.html?type=1\">研究生\</a></h4> </div></div>"
+
+        }
+        document.getElementById("paperlist").innerHTML=list;
+        document.getElementById('type').innerHTML=html;
+    }else if (getQueryString("type")==="3"){
+
+        html="<a>论文专著</a>"
+        for ( i=0;i < 5; i++ ){
+            list=list+"<div class=\"item\"><div class=\"item-heading\"> <h4><a href=\"personinfo_papers.html?type=1\">论文专著\</a></h4> </div></div>"
+
+        }
+        document.getElementById("paperlist").innerHTML=list;
+        document.getElementById('type').innerHTML=html;
+
+    }else if (getQueryString("type")==="4"){
+        html="<a>学术报告</a>"
+        for ( i=0;i < 5; i++ ){
+            list=list+"<div class=\"item\"><div class=\"item-heading\"> <h4><a href=\"personinfo_papers.html?type=1\">学术报告\</a></h4> </div></div>"
+
+        }
+        document.getElementById("paperlist").innerHTML=list;
+        document.getElementById('type').innerHTML=html;
+    }
+
+
+</script>
 </body>
 </html>
