@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3fca4bf-5e5e-4c40-92fd-62cf51a1c359" name="Default" comment="">
+    <list default="true" id="b3fca4bf-5e5e-4c40-92fd-62cf51a1c359" name="Default" comment="前端框架又一次完善">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guoneiwaiyanjiu.html" afterPath="$PROJECT_DIR$/guoneiwaiyanjiu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/keyanteam.html" afterPath="$PROJECT_DIR$/keyanteam.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiyanshigaikuang/shiyanshijianjie/8.html" afterPath="$PROJECT_DIR$/shiyanshigaikuang/shiyanshijianjie/8.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiyanshigaikuang/shiyanshijigou/10.html" afterPath="$PROJECT_DIR$/shiyanshigaikuang/shiyanshijigou/10.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xueshujiaoliu/guonawaiyanjiuqianyan/18.html" afterPath="$PROJECT_DIR$/xueshujiaoliu/guonawaiyanjiuqianyan/18.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xueshujiaoliu/guonawaiyanjiuqianyan/20.html" afterPath="$PROJECT_DIR$/xueshujiaoliu/guonawaiyanjiuqianyan/20.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xueshujiaoliu/shiyanshidongtai/1.html" afterPath="$PROJECT_DIR$/xueshujiaoliu/shiyanshidongtai/1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xueshujiaoliu/shiyanshidongtai/25.html" afterPath="$PROJECT_DIR$/xueshujiaoliu/shiyanshidongtai/25.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xueshujiaoliu/tongzhigonggao/29.html" afterPath="$PROJECT_DIR$/xueshujiaoliu/tongzhigonggao/29.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bomolib.html" afterPath="$PROJECT_DIR$/bomolib.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cailiaolib.html" afterPath="$PROJECT_DIR$/cailiaolib.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guangdianlib.html" afterPath="$PROJECT_DIR$/guangdianlib.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -70,14 +64,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="18.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="18.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xueshujiaoliu/guonawaiyanjiuqianyan/18.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="89" column="35" lean-forward="true" selection-start-line="89" selection-start-column="35" selection-end-line="89" selection-end-column="35" />
+            <state relative-caret-position="357">
+              <caret line="86" column="10" lean-forward="true" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="guangdianlib.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guangdianlib.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="136" column="7" lean-forward="true" selection-start-line="136" selection-start-column="7" selection-end-line="136" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bomolib.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bomolib.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="71" column="31" lean-forward="true" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -99,38 +113,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
               <caret line="86" column="10" lean-forward="true" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/default.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1653">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/zuixinji/default.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-357">
-              <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/a/gongnenbomoshiyanshi/default.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="112" column="0" lean-forward="true" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -231,9 +213,6 @@
         <option value="$PROJECT_DIR$/libinforead.htm" />
         <option value="$PROJECT_DIR$/newgain.html" />
         <option value="$PROJECT_DIR$/team_new.html" />
-        <option value="$PROJECT_DIR$/bomolib.html" />
-        <option value="$PROJECT_DIR$/cailiaolib.html" />
-        <option value="$PROJECT_DIR$/guangdianlib.html" />
         <option value="$PROJECT_DIR$/newtrends.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/yanjiure/default.htm" />
@@ -260,6 +239,9 @@
         <option value="$PROJECT_DIR$/xueshujiaoliu/guonawaiyanjiuqianyan/20.html" />
         <option value="$PROJECT_DIR$/xueshujiaoliu/shiyanshidongtai/25.html" />
         <option value="$PROJECT_DIR$/xueshujiaoliu/guonawaiyanjiuqianyan/18.html" />
+        <option value="$PROJECT_DIR$/guangdianlib.html" />
+        <option value="$PROJECT_DIR$/bomolib.html" />
+        <option value="$PROJECT_DIR$/cailiaolib.html" />
       </list>
     </option>
   </component>
@@ -441,7 +423,7 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="js-jscs-nodeInterpreter" value="E:\Program Files\nodejs\node.exe" />
-    <property name="SearchEverywhereHistoryKey" value="18&#9;FILE&#9;file://F:/WEB/berichman.github.io/xueshujiaoliu/guonawaiyanjiuqianyan/18.html&#10;25&#9;FILE&#9;file://F:/WEB/berichman.github.io/xueshujiaoliu/shiyanshidongtai/25.html&#10;20&#9;FILE&#9;file://F:/WEB/berichman.github.io/xueshujiaoliu/guonawaiyanjiuqianyan/20.html&#10;1.&#9;FILE&#9;file://F:/WEB/berichman.github.io/xueshujiaoliu/shiyanshidongtai/1.html&#10;1&#9;FILE&#9;file://F:/WEB/berichman.github.io/shiyanshigaikuang/shiyanshijigou/10.html&#10;shiyanshi&#9;FILE&#9;file://F:/WEB/berichman.github.io/shiyanshidongtai.html&#10;29&#9;FILE&#9;file://F:/WEB/berichman.github.io/xueshujiaoliu/tongzhigonggao/29.html&#10;8&#9;FILE&#9;file://F:/WEB/berichman.github.io/shiyanshigaikuang/shiyanshijianjie/8.html&#10;keyan&#9;FILE&#9;file://F:/WEB/berichman.github.io/keyanteam.html&#10;personinfo&#9;FILE&#9;file://F:/WEB/berichman.github.io/personinfo.html&#10;pers&#9;FILE&#9;file://F:/WEB/berichman.github.io/personinfo_project.html&#10;syste&#9;FILE&#9;file://C:/Users/Administrator/Desktop/berichman.github.io/systemmanage.html&#10;sys&#9;FILE&#9;file://C:/Users/Administrator/Desktop/berichman.github.io/systemmanage.html&#10;login&#9;FILE&#9;file://F:/WEB/berichman.github.io/login.html&#10;log&#9;FILE&#9;file://F:/WEB/berichman.github.io/login.html&#10;logi&#9;FILE&#9;file://F:/WEB/berichman.github.io/js/login.js" />
+    <property name="SearchEverywhereHistoryKey" value="cail&#9;FILE&#9;file://F:/WEB/berichman.github.io/cailiaolib.html&#10;bomo&#9;FILE&#9;file://F:/WEB/berichman.github.io/bomolib.html&#10;guang&#9;FILE&#9;file://F:/WEB/berichman.github.io/guangdianlib.html&#10;18&#9;FILE&#9;file://F:/WEB/berichman.github.io/xueshujiaoliu/guonawaiyanjiuqianyan/18.html&#10;25&#9;FILE&#9;file://F:/WEB/berichman.github.io/xueshujiaoliu/shiyanshidongtai/25.html&#10;20&#9;FILE&#9;file://F:/WEB/berichman.github.io/xueshujiaoliu/guonawaiyanjiuqianyan/20.html&#10;1.&#9;FILE&#9;file://F:/WEB/berichman.github.io/xueshujiaoliu/shiyanshidongtai/1.html&#10;1&#9;FILE&#9;file://F:/WEB/berichman.github.io/shiyanshigaikuang/shiyanshijigou/10.html&#10;shiyanshi&#9;FILE&#9;file://F:/WEB/berichman.github.io/shiyanshidongtai.html&#10;29&#9;FILE&#9;file://F:/WEB/berichman.github.io/xueshujiaoliu/tongzhigonggao/29.html&#10;8&#9;FILE&#9;file://F:/WEB/berichman.github.io/shiyanshigaikuang/shiyanshijianjie/8.html&#10;keyan&#9;FILE&#9;file://F:/WEB/berichman.github.io/keyanteam.html&#10;personinfo&#9;FILE&#9;file://F:/WEB/berichman.github.io/personinfo.html&#10;pers&#9;FILE&#9;file://F:/WEB/berichman.github.io/personinfo_project.html&#10;syste&#9;FILE&#9;file://C:/Users/Administrator/Desktop/berichman.github.io/systemmanage.html&#10;sys&#9;FILE&#9;file://C:/Users/Administrator/Desktop/berichman.github.io/systemmanage.html&#10;login&#9;FILE&#9;file://F:/WEB/berichman.github.io/login.html&#10;log&#9;FILE&#9;file://F:/WEB/berichman.github.io/login.html&#10;logi&#9;FILE&#9;file://F:/WEB/berichman.github.io/js/login.js" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -565,7 +547,7 @@
       <workItem from="1494944694910" duration="3000" />
       <workItem from="1494944720634" duration="864000" />
       <workItem from="1494988901285" duration="16271000" />
-      <workItem from="1495027647156" duration="5439000" />
+      <workItem from="1495027647156" duration="6302000" />
     </task>
     <task id="LOCAL-00001" summary="主页的部分更改">
       <created>1494427795225</created>
@@ -651,11 +633,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495034672123</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="前端框架又一次完善">
+      <created>1495035881504</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1495035881504</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92059000" />
+    <option name="totallyTimeSpent" value="92922000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -729,7 +718,8 @@
     <MESSAGE value="完善了后台" />
     <MESSAGE value="前端框架完善" />
     <MESSAGE value="前端框架再一次完善" />
-    <option name="LAST_COMMIT_MESSAGE" value="前端框架再一次完善" />
+    <MESSAGE value="前端框架又一次完善" />
+    <option name="LAST_COMMIT_MESSAGE" value="前端框架又一次完善" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -864,30 +854,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2369">
           <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cailiaolib.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bomolib.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guangdianlib.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1150,11 +1116,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xueshujiaoliu/guonawaiyanjiuqianyan/18.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="89" column="35" lean-forward="true" selection-start-line="89" selection-start-column="35" selection-end-line="89" selection-end-column="35" />
+        <state relative-caret-position="357">
+          <caret line="86" column="10" lean-forward="true" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guangdianlib.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="136" column="7" lean-forward="true" selection-start-line="136" selection-start-column="7" selection-end-line="136" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cailiaolib.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1392">
+          <caret line="73" column="32" lean-forward="true" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bomolib.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="71" column="31" lean-forward="true" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
