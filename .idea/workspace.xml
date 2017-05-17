@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b3fca4bf-5e5e-4c40-92fd-62cf51a1c359" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.htm" afterPath="$PROJECT_DIR$/index.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiyanshigaikuang/xueshuweiyuanhui/11.html" afterPath="$PROJECT_DIR$/shiyanshigaikuang/xueshuweiyuanhui/11.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,6 +26,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="184" column="82" lean-forward="true" selection-start-line="184" selection-start-column="82" selection-end-line="184" selection-end-column="82" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="10.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shiyanshigaikuang/shiyanshijigou/10.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -94,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="11.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="11.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shiyanshigaikuang/xueshuweiyuanhui/11.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="85" column="10" lean-forward="true" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="10" />
+            <state relative-caret-position="231">
+              <caret line="92" column="143" lean-forward="false" selection-start-line="92" selection-start-column="143" selection-end-line="92" selection-end-column="143" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -123,18 +134,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
               <caret line="86" column="10" lean-forward="true" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shiyanshidongtai.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shiyanshidongtai.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13">
-              <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -225,7 +224,6 @@
         <option value="$PROJECT_DIR$/newtrends.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/yanjiure/default.htm" />
-        <option value="$PROJECT_DIR$/index.htm" />
         <option value="$PROJECT_DIR$/css/zui.min.css" />
         <option value="$PROJECT_DIR$/systemmanage.html" />
         <option value="$PROJECT_DIR$/usermanage.html" />
@@ -252,6 +250,7 @@
         <option value="$PROJECT_DIR$/bomolib.html" />
         <option value="$PROJECT_DIR$/cailiaolib.html" />
         <option value="$PROJECT_DIR$/shiyanshigaikuang/xueshuweiyuanhui/11.html" />
+        <option value="$PROJECT_DIR$/index.htm" />
       </list>
     </option>
   </component>
@@ -262,9 +261,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-34" />
+    <option name="x" value="-183" />
+    <option name="y" value="98" />
     <option name="width" value="1932" />
-    <option name="height" value="1087" />
+    <option name="height" value="1092" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -593,7 +593,7 @@
       <workItem from="1494944694910" duration="3000" />
       <workItem from="1494944720634" duration="864000" />
       <workItem from="1494988901285" duration="16271000" />
-      <workItem from="1495027647156" duration="6765000" />
+      <workItem from="1495027647156" duration="7535000" />
     </task>
     <task id="LOCAL-00001" summary="主页的部分更改">
       <created>1494427795225</created>
@@ -693,11 +693,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495037219113</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="可能仍然有部分页面有问题">
+      <created>1495037693939</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1495037693939</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93385000" />
+    <option name="totallyTimeSpent" value="94155000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -709,14 +716,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-34" y="0" width="1932" height="1087" extended-state="0" />
+    <frame x="-183" y="98" width="1932" height="1092" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15258712" sideWeight="0.49056605" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20986359" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20876826" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -773,7 +780,8 @@
     <MESSAGE value="前端框架再一次完善" />
     <MESSAGE value="前端框架又一次完善" />
     <MESSAGE value="前端框架又一次完善+1" />
-    <option name="LAST_COMMIT_MESSAGE" value="前端框架又一次完善+1" />
+    <MESSAGE value="可能仍然有部分页面有问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="可能仍然有部分页面有问题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -977,14 +985,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="66" column="17" lean-forward="false" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="94" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1197,11 +1197,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shiyanshigaikuang/xueshuweiyuanhui/11.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="85" column="10" lean-forward="true" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="10" />
+        <state relative-caret-position="231">
+          <caret line="92" column="143" lean-forward="false" selection-start-line="92" selection-start-column="143" selection-end-line="92" selection-end-column="143" />
           <folding>
             <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="184" column="82" lean-forward="true" selection-start-line="184" selection-start-column="82" selection-end-line="184" selection-end-column="82" />
+          <folding />
         </state>
       </provider>
     </entry>
