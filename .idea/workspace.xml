@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3fca4bf-5e5e-4c40-92fd-62cf51a1c359" name="Default" comment="完善了后台">
+    <list default="true" id="b3fca4bf-5e5e-4c40-92fd-62cf51a1c359" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/gongnenbomoshiyanshi/default.htm" afterPath="$PROJECT_DIR$/a/gongnenbomoshiyanshi/default.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/gongnenbomoshiyanshi/zuixinjinzhan/default.htm" afterPath="$PROJECT_DIR$/a/gongnenbomoshiyanshi/zuixinjinzhan/default.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/weijiegouyutezhonggongnencailiaoshiyanshi/zuixin/default.htm" afterPath="$PROJECT_DIR$/a/weijiegouyutezhonggongnencailiaoshiyanshi/zuixin/default.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newgain.html" afterPath="$PROJECT_DIR$/newgain.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personinfo.html" afterPath="$PROJECT_DIR$/personinfo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personinfo_papers.html" afterPath="$PROJECT_DIR$/personinfo_papers.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personinfo_project.html" afterPath="$PROJECT_DIR$/personinfo_project.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiyanshidongtai.html" afterPath="$PROJECT_DIR$/shiyanshidongtai.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiyanshigaikuang/shiyanshijigou/10.html" afterPath="$PROJECT_DIR$/shiyanshigaikuang/shiyanshijigou/10.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xueshujiaoliu.html" afterPath="$PROJECT_DIR$/xueshujiaoliu.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -66,8 +59,8 @@
       <file leaf-file-name="personinfo.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/personinfo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="88" column="40" lean-forward="false" selection-start-line="88" selection-start-column="40" selection-end-line="88" selection-end-column="40" />
+            <state relative-caret-position="243">
+              <caret line="82" column="34" lean-forward="true" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
               <folding>
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -96,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="personinfo_project.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="personinfo_project.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/personinfo_project.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="202" column="55" lean-forward="true" selection-start-line="202" selection-start-column="55" selection-end-line="202" selection-end-column="55" />
+            <state relative-caret-position="321">
+              <caret line="89" column="83" lean-forward="false" selection-start-line="89" selection-start-column="83" selection-end-line="89" selection-end-column="83" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -108,11 +101,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="personinfo_papers.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="personinfo_papers.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/personinfo_papers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1602">
-              <caret line="126" column="35" lean-forward="true" selection-start-line="126" selection-start-column="35" selection-end-line="126" selection-end-column="35" />
+            <state relative-caret-position="321">
+              <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
               <folding>
                 <element signature="n#script#4;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#script#5;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -243,7 +236,6 @@
         <option value="$PROJECT_DIR$/systemmanage.html" />
         <option value="$PROJECT_DIR$/usermanage.html" />
         <option value="$PROJECT_DIR$/kexueyuanjiu.html" />
-        <option value="$PROJECT_DIR$/personinfo_papers.html" />
         <option value="$PROJECT_DIR$/xueshujiaoliu.html" />
         <option value="$PROJECT_DIR$/shiyanshigaikuang/shiyanshijigou/10.html" />
         <option value="$PROJECT_DIR$/a/weijiegouyutezhonggongnencailiaoshiyanshi/zuixin/default.htm" />
@@ -253,6 +245,7 @@
         <option value="$PROJECT_DIR$/a/gongnenbomoshiyanshi/default.htm" />
         <option value="$PROJECT_DIR$/personinfo.html" />
         <option value="$PROJECT_DIR$/personinfo_project.html" />
+        <option value="$PROJECT_DIR$/personinfo_papers.html" />
       </list>
     </option>
   </component>
@@ -263,8 +256,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-48" />
-    <option name="y" value="24" />
+    <option name="x" value="-34" />
     <option name="width" value="1932" />
     <option name="height" value="1092" />
   </component>
@@ -487,7 +479,7 @@
       <workItem from="1494944694910" duration="3000" />
       <workItem from="1494944720634" duration="864000" />
       <workItem from="1494988901285" duration="16271000" />
-      <workItem from="1495027647156" duration="4142000" />
+      <workItem from="1495027647156" duration="4239000" />
     </task>
     <task id="LOCAL-00001" summary="主页的部分更改">
       <created>1494427795225</created>
@@ -559,11 +551,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494779259925</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="前端框架完善">
+      <created>1495034575264</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1495034575264</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90762000" />
+    <option name="totallyTimeSpent" value="90859000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -575,7 +574,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-48" y="24" width="1932" height="1092" extended-state="0" />
+    <frame x="-34" y="0" width="1932" height="1092" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15258712" sideWeight="0.49056605" order="0" side_tool="false" content_ui="combo" />
@@ -635,7 +634,8 @@
     <MESSAGE value="加载了百度echart" />
     <MESSAGE value="加载了百度echart更新" />
     <MESSAGE value="完善了后台" />
-    <option name="LAST_COMMIT_MESSAGE" value="完善了后台" />
+    <MESSAGE value="前端框架完善" />
+    <option name="LAST_COMMIT_MESSAGE" value="前端框架完善" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -994,14 +994,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/a/gongnenbomoshiyanshi/fabiaolunwen/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/a/gongnenbomoshiyanshi/default.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="888">
@@ -1012,21 +1004,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/personinfo_papers.html">
+    <entry file="file://$PROJECT_DIR$/a/gongnenbomoshiyanshi/fabiaolunwen/default.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1602">
-          <caret line="126" column="35" lean-forward="true" selection-start-line="126" selection-start-column="35" selection-end-line="126" selection-end-column="35" />
-          <folding>
-            <element signature="n#script#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/personinfo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="88" column="40" lean-forward="false" selection-start-line="88" selection-start-column="40" selection-end-line="88" selection-end-column="40" />
+        <state relative-caret-position="243">
+          <caret line="82" column="34" lean-forward="true" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
           <folding>
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -1036,10 +1025,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/personinfo_project.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="202" column="55" lean-forward="true" selection-start-line="202" selection-start-column="55" selection-end-line="202" selection-end-column="55" />
+        <state relative-caret-position="321">
+          <caret line="89" column="83" lean-forward="false" selection-start-line="89" selection-start-column="83" selection-end-line="89" selection-end-column="83" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personinfo_papers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding>
+            <element signature="n#script#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#5;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
