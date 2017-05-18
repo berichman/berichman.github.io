@@ -3,8 +3,50 @@
   <component name="ChangeListManager">
     <list default="true" id="b3fca4bf-5e5e-4c40-92fd-62cf51a1c359" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/gongnenbomoshiyanshi/default.htm" afterPath="$PROJECT_DIR$/a/gongnenbomoshiyanshi/default.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/gongnenbomoshiyanshi/fabiaolunwen/default.htm" afterPath="$PROJECT_DIR$/a/gongnenbomoshiyanshi/fabiaolunwen/default.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/gongnenbomoshiyanshi/yanjiufangxiang/default.htm" afterPath="$PROJECT_DIR$/a/gongnenbomoshiyanshi/yanjiufangxiang/default.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/default.htm" afterPath="$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/default.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/fabiaolu/default.htm" afterPath="$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/fabiaolu/default.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/yanjiufa/default.htm" afterPath="$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/yanjiufa/default.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/yanjiure/default.htm" afterPath="$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/yanjiure/default.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/zuixinji/default.htm" afterPath="$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/zuixinji/default.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/qianguang/2017/0418/31.html" afterPath="$PROJECT_DIR$/a/qianguang/2017/0418/31.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/qianguang/default.htm" afterPath="$PROJECT_DIR$/a/qianguang/default.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/qianguang/xueshulunwen/default.htm" afterPath="$PROJECT_DIR$/a/qianguang/xueshulunwen/default.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/qianguang/yanjiufangxiang/default.htm" afterPath="$PROJECT_DIR$/a/qianguang/yanjiufangxiang/default.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/qianguang/yanjiurenyuan/default.htm" afterPath="$PROJECT_DIR$/a/qianguang/yanjiurenyuan/default.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/weijiegouyutezhonggongnencailiaoshiyanshi/default.htm" afterPath="$PROJECT_DIR$/a/weijiegouyutezhonggongnencailiaoshiyanshi/default.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/weijiegouyutezhonggongnencailiaoshiyanshi/fabiao/default.htm" afterPath="$PROJECT_DIR$/a/weijiegouyutezhonggongnencailiaoshiyanshi/fabiao/default.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/weijiegouyutezhonggongnencailiaoshiyanshi/yanjiu/default.htm" afterPath="$PROJECT_DIR$/a/weijiegouyutezhonggongnencailiaoshiyanshi/yanjiu/default.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bomolib.html" afterPath="$PROJECT_DIR$/bomolib.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cailiaolib.html" afterPath="$PROJECT_DIR$/cailiaolib.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/callus.html" afterPath="$PROJECT_DIR$/callus.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guangdianlib.html" afterPath="$PROJECT_DIR$/guangdianlib.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guoneiwaiyanjiu.html" afterPath="$PROJECT_DIR$/guoneiwaiyanjiu.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.htm" afterPath="$PROJECT_DIR$/index.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kexueyanjiu/12.html" afterPath="$PROJECT_DIR$/kexueyanjiu/12.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kexueyanjiu/13.html" afterPath="$PROJECT_DIR$/kexueyanjiu/13.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kexueyuanjiu.html" afterPath="$PROJECT_DIR$/kexueyuanjiu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/keyanteam.html" afterPath="$PROJECT_DIR$/keyanteam.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/keyantuandui/9.html" afterPath="$PROJECT_DIR$/keyantuandui/9.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libbaseinfo.html" afterPath="$PROJECT_DIR$/libbaseinfo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libinfo.htm" afterPath="$PROJECT_DIR$/libinfo.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libinforead.htm" afterPath="$PROJECT_DIR$/libinforead.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personinfo.html" afterPath="$PROJECT_DIR$/personinfo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personinfo_papers.html" afterPath="$PROJECT_DIR$/personinfo_papers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personinfo_project.html" afterPath="$PROJECT_DIR$/personinfo_project.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiyanshidongtai.html" afterPath="$PROJECT_DIR$/shiyanshidongtai.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiyanshigaikuang/shiyanshijianjie/8.html" afterPath="$PROJECT_DIR$/shiyanshigaikuang/shiyanshijianjie/8.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiyanshigaikuang/shiyanshijigou/10.html" afterPath="$PROJECT_DIR$/shiyanshigaikuang/shiyanshijigou/10.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiyanshigaikuang/xueshuweiyuanhui/11.html" afterPath="$PROJECT_DIR$/shiyanshigaikuang/xueshuweiyuanhui/11.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongzhigonggao.html" afterPath="$PROJECT_DIR$/tongzhigonggao.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xueshujiaoliu.html" afterPath="$PROJECT_DIR$/xueshujiaoliu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xueshujiaoliu/guonawaiyanjiuqianyan/18.html" afterPath="$PROJECT_DIR$/xueshujiaoliu/guonawaiyanjiuqianyan/18.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xueshujiaoliu/guonawaiyanjiuqianyan/20.html" afterPath="$PROJECT_DIR$/xueshujiaoliu/guonawaiyanjiuqianyan/20.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xueshujiaoliu/shiyanshidongtai/1.html" afterPath="$PROJECT_DIR$/xueshujiaoliu/shiyanshidongtai/1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xueshujiaoliu/shiyanshidongtai/25.html" afterPath="$PROJECT_DIR$/xueshujiaoliu/shiyanshidongtai/25.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xueshujiaoliu/tongzhigonggao/29.html" afterPath="$PROJECT_DIR$/xueshujiaoliu/tongzhigonggao/29.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,113 +71,140 @@
       <file leaf-file-name="index.htm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="184" column="82" lean-forward="true" selection-start-line="184" selection-start-column="82" selection-end-line="184" selection-end-column="82" />
+            <state relative-caret-position="161">
+              <caret line="190" column="0" lean-forward="true" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kexueyuanjiu.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kexueyuanjiu.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="77" column="12" lean-forward="true" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="libbaseinfo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libbaseinfo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="85" column="109" lean-forward="true" selection-start-line="85" selection-start-column="109" selection-end-line="85" selection-end-column="109" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="8.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shiyanshigaikuang/shiyanshijianjie/8.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="108" column="10" lean-forward="true" selection-start-line="108" selection-start-column="10" selection-end-line="108" selection-end-column="10" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="team_new.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team_new.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2277">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1494923666915" expanded="true" signature="7909:8018" ph="//..." />
+                <marker date="1494923666915" expanded="true" signature="8113:8259" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="8299:8435" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="8478:8641" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="8686:8794" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="8837:8927" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="8970:9262" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="9306:9733" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="9412:9645" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="9650:9723" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="9786:10064" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="10108:10251" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="10295:10416" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="10457:10794" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="10841:11264" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="10948:11161" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="11166:11239" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="11306:11385" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="11430:11549" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="11595:12135" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="11815:12113" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="11864:11980" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="11986:12087" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="12177:12527" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="12397:12505" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="12574:12682" ph="{...}" />
+                <marker date="1494923666915" expanded="true" signature="12731:12874" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="timetest.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/timetest.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="37" column="30" lean-forward="true" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="10.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shiyanshigaikuang/shiyanshijigou/10.html">
+      <file leaf-file-name="tongzhigonggao.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tongzhigonggao.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+            <state relative-caret-position="184">
+              <caret line="35" column="49" lean-forward="false" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
               <folding>
-                <element signature="e#2726#2734#0" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#2868#2876#0" expanded="true" />
-                <element signature="e#2975#2983#0" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xueshujiaoliu/shiyanshidongtai/1.html">
+      <file leaf-file-name="use_new.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/use_new.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="79" column="40" lean-forward="true" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="guoneiwaiyanjiu.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/guoneiwaiyanjiu.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="97" column="109" lean-forward="false" selection-start-line="97" selection-start-column="109" selection-end-line="97" selection-end-column="109" />
+            <state relative-caret-position="-2070">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="18.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xueshujiaoliu/guonawaiyanjiuqianyan/18.html">
+      <file leaf-file-name="usermanage.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usermanage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="86" column="10" lean-forward="true" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="guangdianlib.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/guangdianlib.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="136" column="7" lean-forward="true" selection-start-line="136" selection-start-column="7" selection-end-line="136" selection-end-column="7" />
+            <state relative-caret-position="-2070">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bomolib.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bomolib.html">
+      <file leaf-file-name="xueshujiaoliu.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xueshujiaoliu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="90" column="10" lean-forward="true" selection-start-line="90" selection-start-column="10" selection-end-line="90" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="11.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shiyanshigaikuang/xueshuweiyuanhui/11.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="92" column="143" lean-forward="false" selection-start-line="92" selection-start-column="143" selection-end-line="92" selection-end-column="143" />
+            <state relative-caret-position="828">
+              <caret line="42" column="33" lean-forward="true" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
               <folding>
-                <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xueshujiaoliu/guonawaiyanjiuqianyan/20.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="25.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xueshujiaoliu/shiyanshidongtai/25.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="86" column="10" lean-forward="true" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -200,56 +269,56 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/newtrends.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/css/zui.min.css" />
+        <option value="$PROJECT_DIR$/systemmanage.html" />
+        <option value="$PROJECT_DIR$/usermanage.html" />
+        <option value="$PROJECT_DIR$/a/weijiegouyutezhonggongnencailiaoshiyanshi/zuixin/default.htm" />
+        <option value="$PROJECT_DIR$/a/gongnenbomoshiyanshi/zuixinjinzhan/default.htm" />
+        <option value="$PROJECT_DIR$/a/gongnenbomoshiyanshi/fabiaolunwen/default.htm" />
+        <option value="$PROJECT_DIR$/a/gongnenbomoshiyanshi/yanjiufangxiang/default.htm" />
+        <option value="$PROJECT_DIR$/a/gongnenbomoshiyanshi/default.htm" />
+        <option value="$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/fabiaolu/default.htm" />
+        <option value="$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/yanjiufa/default.htm" />
+        <option value="$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/yanjiure/default.htm" />
+        <option value="$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/zuixinji/default.htm" />
+        <option value="$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/default.htm" />
+        <option value="$PROJECT_DIR$/a/qianguang/2017/0418/31.html" />
+        <option value="$PROJECT_DIR$/a/qianguang/xueshulunwen/default.htm" />
         <option value="$PROJECT_DIR$/a/qianguang/yanjiufangxiang/default.htm" />
         <option value="$PROJECT_DIR$/a/qianguang/yanjiurenyuan/default.htm" />
-        <option value="$PROJECT_DIR$/a/qianguang/zuixinjinzhan/default.htm" />
+        <option value="$PROJECT_DIR$/a/qianguang/default.htm" />
         <option value="$PROJECT_DIR$/a/weijiegouyutezhonggongnencailiaoshiyanshi/fabiao/default.htm" />
         <option value="$PROJECT_DIR$/a/weijiegouyutezhonggongnencailiaoshiyanshi/yanjiu/default.htm" />
-        <option value="$PROJECT_DIR$/a/qianguang/default.htm" />
-        <option value="$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/default.htm" />
-        <option value="$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/zuixinji/default.htm" />
-        <option value="$PROJECT_DIR$/a/qianguang/2017/0418/31.html" />
         <option value="$PROJECT_DIR$/a/weijiegouyutezhonggongnencailiaoshiyanshi/default.htm" />
         <option value="$PROJECT_DIR$/kexueyanjiu/12.html" />
         <option value="$PROJECT_DIR$/kexueyanjiu/13.html" />
         <option value="$PROJECT_DIR$/keyantuandui/9.html" />
-        <option value="$PROJECT_DIR$/uploads/allimg/default.htm" />
-        <option value="$PROJECT_DIR$/callus.html" />
-        <option value="$PROJECT_DIR$/libbaseinfo.html" />
-        <option value="$PROJECT_DIR$/tongzhigonggao.html" />
-        <option value="$PROJECT_DIR$/libinfo.htm" />
-        <option value="$PROJECT_DIR$/libinforead.htm" />
-        <option value="$PROJECT_DIR$/newgain.html" />
-        <option value="$PROJECT_DIR$/team_new.html" />
-        <option value="$PROJECT_DIR$/newtrends.html" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/yanjiure/default.htm" />
-        <option value="$PROJECT_DIR$/css/zui.min.css" />
-        <option value="$PROJECT_DIR$/systemmanage.html" />
-        <option value="$PROJECT_DIR$/usermanage.html" />
-        <option value="$PROJECT_DIR$/kexueyuanjiu.html" />
-        <option value="$PROJECT_DIR$/xueshujiaoliu.html" />
-        <option value="$PROJECT_DIR$/a/weijiegouyutezhonggongnencailiaoshiyanshi/zuixin/default.htm" />
-        <option value="$PROJECT_DIR$/a/gongnenbomoshiyanshi/yanjiufangxiang/default.htm" />
-        <option value="$PROJECT_DIR$/a/gongnenbomoshiyanshi/zuixinjinzhan/default.htm" />
-        <option value="$PROJECT_DIR$/shiyanshidongtai.html" />
-        <option value="$PROJECT_DIR$/a/gongnenbomoshiyanshi/default.htm" />
-        <option value="$PROJECT_DIR$/personinfo.html" />
-        <option value="$PROJECT_DIR$/personinfo_project.html" />
-        <option value="$PROJECT_DIR$/personinfo_papers.html" />
-        <option value="$PROJECT_DIR$/keyanteam.html" />
         <option value="$PROJECT_DIR$/shiyanshigaikuang/shiyanshijianjie/8.html" />
-        <option value="$PROJECT_DIR$/xueshujiaoliu/tongzhigonggao/29.html" />
         <option value="$PROJECT_DIR$/shiyanshigaikuang/shiyanshijigou/10.html" />
-        <option value="$PROJECT_DIR$/xueshujiaoliu/shiyanshidongtai/1.html" />
-        <option value="$PROJECT_DIR$/guoneiwaiyanjiu.html" />
-        <option value="$PROJECT_DIR$/xueshujiaoliu/guonawaiyanjiuqianyan/20.html" />
-        <option value="$PROJECT_DIR$/xueshujiaoliu/shiyanshidongtai/25.html" />
+        <option value="$PROJECT_DIR$/shiyanshigaikuang/xueshuweiyuanhui/11.html" />
         <option value="$PROJECT_DIR$/xueshujiaoliu/guonawaiyanjiuqianyan/18.html" />
-        <option value="$PROJECT_DIR$/guangdianlib.html" />
+        <option value="$PROJECT_DIR$/xueshujiaoliu/guonawaiyanjiuqianyan/20.html" />
+        <option value="$PROJECT_DIR$/xueshujiaoliu/shiyanshidongtai/1.html" />
+        <option value="$PROJECT_DIR$/xueshujiaoliu/shiyanshidongtai/25.html" />
+        <option value="$PROJECT_DIR$/xueshujiaoliu/tongzhigonggao/29.html" />
         <option value="$PROJECT_DIR$/bomolib.html" />
         <option value="$PROJECT_DIR$/cailiaolib.html" />
-        <option value="$PROJECT_DIR$/shiyanshigaikuang/xueshuweiyuanhui/11.html" />
+        <option value="$PROJECT_DIR$/callus.html" />
+        <option value="$PROJECT_DIR$/guangdianlib.html" />
+        <option value="$PROJECT_DIR$/guoneiwaiyanjiu.html" />
+        <option value="$PROJECT_DIR$/keyanteam.html" />
+        <option value="$PROJECT_DIR$/libinfo.htm" />
+        <option value="$PROJECT_DIR$/libinforead.htm" />
+        <option value="$PROJECT_DIR$/personinfo.html" />
+        <option value="$PROJECT_DIR$/personinfo_papers.html" />
+        <option value="$PROJECT_DIR$/personinfo_project.html" />
+        <option value="$PROJECT_DIR$/shiyanshidongtai.html" />
+        <option value="$PROJECT_DIR$/tongzhigonggao.html" />
+        <option value="$PROJECT_DIR$/xueshujiaoliu.html" />
+        <option value="$PROJECT_DIR$/kexueyuanjiu.html" />
+        <option value="$PROJECT_DIR$/libbaseinfo.html" />
         <option value="$PROJECT_DIR$/index.htm" />
       </list>
     </option>
@@ -261,10 +330,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-183" />
-    <option name="y" value="98" />
-    <option name="width" value="1932" />
-    <option name="height" value="1092" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -284,7 +353,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -297,167 +365,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="berichman.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="berichman.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiyanshigaikuang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xueshuweiyuanhui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="berichman.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="berichman.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiyanshigaikuang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiyanshijigou" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="berichman.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="berichman.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiyanshigaikuang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="berichman.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="berichman.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kexueyanjiu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="berichman.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="berichman.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="weijiegouyutezhonggongnencailiaoshiyanshi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="berichman.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="berichman.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="qianguang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="berichman.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="berichman.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="guangdianjiancejishuyuyingyongshiyanshi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="berichman.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="berichman.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="guangdianjiancejishuyuyingyongshiyanshi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zuixinji" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="berichman.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="berichman.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gongnenbomoshiyanshi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -469,7 +380,7 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="js-jscs-nodeInterpreter" value="E:\Program Files\nodejs\node.exe" />
-    <property name="SearchEverywhereHistoryKey" value="cail&#9;FILE&#9;file://F:/WEB/berichman.github.io/cailiaolib.html&#10;bomo&#9;FILE&#9;file://F:/WEB/berichman.github.io/bomolib.html&#10;guang&#9;FILE&#9;file://F:/WEB/berichman.github.io/guangdianlib.html&#10;18&#9;FILE&#9;file://F:/WEB/berichman.github.io/xueshujiaoliu/guonawaiyanjiuqianyan/18.html&#10;25&#9;FILE&#9;file://F:/WEB/berichman.github.io/xueshujiaoliu/shiyanshidongtai/25.html&#10;20&#9;FILE&#9;file://F:/WEB/berichman.github.io/xueshujiaoliu/guonawaiyanjiuqianyan/20.html&#10;1.&#9;FILE&#9;file://F:/WEB/berichman.github.io/xueshujiaoliu/shiyanshidongtai/1.html&#10;1&#9;FILE&#9;file://F:/WEB/berichman.github.io/shiyanshigaikuang/shiyanshijigou/10.html&#10;shiyanshi&#9;FILE&#9;file://F:/WEB/berichman.github.io/shiyanshidongtai.html&#10;29&#9;FILE&#9;file://F:/WEB/berichman.github.io/xueshujiaoliu/tongzhigonggao/29.html&#10;8&#9;FILE&#9;file://F:/WEB/berichman.github.io/shiyanshigaikuang/shiyanshijianjie/8.html&#10;keyan&#9;FILE&#9;file://F:/WEB/berichman.github.io/keyanteam.html&#10;personinfo&#9;FILE&#9;file://F:/WEB/berichman.github.io/personinfo.html&#10;pers&#9;FILE&#9;file://F:/WEB/berichman.github.io/personinfo_project.html&#10;syste&#9;FILE&#9;file://C:/Users/Administrator/Desktop/berichman.github.io/systemmanage.html&#10;sys&#9;FILE&#9;file://C:/Users/Administrator/Desktop/berichman.github.io/systemmanage.html&#10;login&#9;FILE&#9;file://F:/WEB/berichman.github.io/login.html&#10;log&#9;FILE&#9;file://F:/WEB/berichman.github.io/login.html&#10;logi&#9;FILE&#9;file://F:/WEB/berichman.github.io/js/login.js" />
+    <property name="SearchEverywhereHistoryKey" value="libbas&#9;FILE&#9;file://C:/Users/Administrator/Desktop/berichman.github.io/libbaseinfo.html&#10;kexue&#9;FILE&#9;file://C:/Users/Administrator/Desktop/berichman.github.io/kexueyuanjiu.html&#10;cail&#9;FILE&#9;file://F:/WEB/berichman.github.io/cailiaolib.html&#10;bomo&#9;FILE&#9;file://F:/WEB/berichman.github.io/bomolib.html&#10;guang&#9;FILE&#9;file://F:/WEB/berichman.github.io/guangdianlib.html&#10;18&#9;FILE&#9;file://F:/WEB/berichman.github.io/xueshujiaoliu/guonawaiyanjiuqianyan/18.html&#10;25&#9;FILE&#9;file://F:/WEB/berichman.github.io/xueshujiaoliu/shiyanshidongtai/25.html&#10;20&#9;FILE&#9;file://F:/WEB/berichman.github.io/xueshujiaoliu/guonawaiyanjiuqianyan/20.html&#10;1.&#9;FILE&#9;file://F:/WEB/berichman.github.io/xueshujiaoliu/shiyanshidongtai/1.html&#10;1&#9;FILE&#9;file://F:/WEB/berichman.github.io/shiyanshigaikuang/shiyanshijigou/10.html&#10;shiyanshi&#9;FILE&#9;file://F:/WEB/berichman.github.io/shiyanshidongtai.html&#10;29&#9;FILE&#9;file://F:/WEB/berichman.github.io/xueshujiaoliu/tongzhigonggao/29.html&#10;8&#9;FILE&#9;file://F:/WEB/berichman.github.io/shiyanshigaikuang/shiyanshijianjie/8.html&#10;keyan&#9;FILE&#9;file://F:/WEB/berichman.github.io/keyanteam.html&#10;personinfo&#9;FILE&#9;file://F:/WEB/berichman.github.io/personinfo.html&#10;pers&#9;FILE&#9;file://F:/WEB/berichman.github.io/personinfo_project.html&#10;syste&#9;FILE&#9;file://C:/Users/Administrator/Desktop/berichman.github.io/systemmanage.html&#10;sys&#9;FILE&#9;file://C:/Users/Administrator/Desktop/berichman.github.io/systemmanage.html&#10;login&#9;FILE&#9;file://F:/WEB/berichman.github.io/login.html&#10;log&#9;FILE&#9;file://F:/WEB/berichman.github.io/login.html&#10;logi&#9;FILE&#9;file://F:/WEB/berichman.github.io/js/login.js" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -496,13 +407,17 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ApexTest" factoryName="Apex Test">
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -594,6 +509,7 @@
       <workItem from="1494944720634" duration="864000" />
       <workItem from="1494988901285" duration="16271000" />
       <workItem from="1495027647156" duration="7535000" />
+      <workItem from="1495074831730" duration="3915000" />
     </task>
     <task id="LOCAL-00001" summary="主页的部分更改">
       <created>1494427795225</created>
@@ -704,7 +620,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94155000" />
+    <option name="totallyTimeSpent" value="98070000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -716,29 +632,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-183" y="98" width="1932" height="1092" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15258712" sideWeight="0.49056605" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15029761" sideWeight="0.49056605" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20876826" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20307693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24925373" sideWeight="0.509434" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299389" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -790,426 +706,527 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/libinforead.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="129" column="25" lean-forward="true" selection-start-line="129" selection-start-column="25" selection-end-line="129" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-59">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newae.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="93" column="14" lean-forward="true" selection-start-line="93" selection-start-column="14" selection-end-line="93" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newgain.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="362" column="7" lean-forward="true" selection-start-line="362" selection-start-column="7" selection-end-line="362" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newnotice.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newtrends.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="244" column="6" lean-forward="false" selection-start-line="244" selection-start-column="6" selection-end-line="244" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="23">
-            <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/role_new.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rolemanage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-59">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-59">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team_new.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="344" column="31" lean-forward="false" selection-start-line="344" selection-start-column="31" selection-end-line="344" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/teammanage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-59">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/timetest.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tongzhigonggao.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36">
-          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/use_new.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/fabiaolu/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1886">
-          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/yanjiure/default.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2369">
-          <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/zui.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="6610" column="1" lean-forward="false" selection-start-line="6610" selection-start-column="1" selection-end-line="6610" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/systemmanage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3822">
-          <caret line="194" column="13" lean-forward="false" selection-start-line="194" selection-start-column="13" selection-end-line="194" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xueshujiaoliu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="123" column="35" lean-forward="true" selection-start-line="123" selection-start-column="35" selection-end-line="123" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kexueyuanjiu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-24">
-          <caret line="88" column="50" lean-forward="false" selection-start-line="88" selection-start-column="50" selection-end-line="88" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usermanage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="192" column="40" lean-forward="false" selection-start-line="192" selection-start-column="38" selection-end-line="192" selection-end-column="40" />
+        <state relative-caret-position="170">
+          <caret line="34" column="53" lean-forward="false" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
           <folding>
-            <element signature="e#6245#6251#0" expanded="true" />
-            <element signature="e#6754#6760#0" expanded="true" />
-            <element signature="e#7251#7257#0" expanded="true" />
-            <element signature="e#7749#7755#0" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libbaseinfo.html">
+    <entry file="file://$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/yanjiufa/default.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="83" column="63" lean-forward="false" selection-start-line="83" selection-start-column="63" selection-end-line="83" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/weijiegouyutezhonggongnencailiaoshiyanshi/yanjiu/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="66" column="17" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="66" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/weijiegouyutezhonggongnencailiaoshiyanshi/zuixin/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="636">
-          <caret line="66" column="17" lean-forward="false" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/gongnenbomoshiyanshi/yanjiufangxiang/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="66" column="17" lean-forward="false" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/xhtml1-transitional.dtd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="668" column="48" lean-forward="true" selection-start-line="668" selection-start-column="48" selection-end-line="668" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/gongnenbomoshiyanshi/zuixinjinzhan/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-309">
-          <caret line="66" column="17" lean-forward="false" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/gongnenbomoshiyanshi/fabiaolunwen/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/personinfo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="82" column="34" lean-forward="true" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
+        <state relative-caret-position="23">
+          <caret line="34" column="53" lean-forward="false" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
           <folding>
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/personinfo_project.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="89" column="83" lean-forward="false" selection-start-line="89" selection-start-column="83" selection-end-line="89" selection-end-column="83" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/personinfo_papers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-          <folding>
-            <element signature="n#script#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyanteam.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="120" column="10" lean-forward="true" selection-start-line="120" selection-start-column="10" selection-end-line="120" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiyanshigaikuang/shiyanshijianjie/8.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="104" column="6" lean-forward="true" selection-start-line="104" selection-start-column="6" selection-end-line="104" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xueshujiaoliu/tongzhigonggao/29.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="59" column="72" lean-forward="true" selection-start-line="59" selection-start-column="72" selection-end-line="59" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1653">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/zuixinji/default.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
-          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/gongnenbomoshiyanshi/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="112" column="0" lean-forward="true" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+        <state relative-caret-position="276">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shiyanshidongtai.html">
+    <entry file="file://$PROJECT_DIR$/a/guangdianjiancejishuyuyingyongshiyanshi/default.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+        <state relative-caret-position="299">
+          <caret line="34" column="53" lean-forward="false" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a/qianguang/2017/0418/31.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a/qianguang/xueshulunwen/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a/qianguang/yanjiufangxiang/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a/qianguang/yanjiurenyuan/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="34" column="29" lean-forward="false" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a/qianguang/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="36" column="22" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a/weijiegouyutezhonggongnencailiaoshiyanshi/fabiao/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a/weijiegouyutezhonggongnencailiaoshiyanshi/yanjiu/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="34" column="53" lean-forward="false" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a/weijiegouyutezhonggongnencailiaoshiyanshi/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="34" column="54" lean-forward="false" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kexueyanjiu/12.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="34" column="53" lean-forward="false" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kexueyanjiu/13.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="34" column="54" lean-forward="false" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyantuandui/9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="34" column="53" lean-forward="false" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shiyanshigaikuang/shiyanshijigou/10.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        <state relative-caret-position="92">
+          <caret line="34" column="54" lean-forward="false" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
           <folding>
-            <element signature="e#2726#2734#0" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#2868#2876#0" expanded="true" />
-            <element signature="e#2975#2983#0" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiyanshigaikuang/xueshuweiyuanhui/11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="34" column="54" lean-forward="false" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploads/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xueshujiaoliu/guonawaiyanjiuqianyan/18.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="34" column="53" lean-forward="false" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xueshujiaoliu/guonawaiyanjiuqianyan/20.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="35" column="53" lean-forward="false" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xueshujiaoliu/shiyanshidongtai/1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="79" column="40" lean-forward="true" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
+        <state relative-caret-position="138">
+          <caret line="36" column="57" lean-forward="false" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guoneiwaiyanjiu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="97" column="109" lean-forward="false" selection-start-line="97" selection-start-column="109" selection-end-line="97" selection-end-column="109" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/kindeditor/plugins/emoticons/images/20.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xueshujiaoliu/guonawaiyanjiuqianyan/20.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#2907#2915#1" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xueshujiaoliu/shiyanshidongtai/25.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="86" column="10" lean-forward="true" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
+        <state relative-caret-position="92">
+          <caret line="34" column="53" lean-forward="false" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="53" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xueshujiaoliu/guonawaiyanjiuqianyan/18.html">
+    <entry file="file://$PROJECT_DIR$/xueshujiaoliu/tongzhigonggao/29.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="86" column="10" lean-forward="true" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
+        <state relative-caret-position="188">
+          <caret line="34" column="54" lean-forward="false" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guangdianlib.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="136" column="7" lean-forward="true" selection-start-line="136" selection-start-column="7" selection-end-line="136" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cailiaolib.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1392">
-          <caret line="73" column="32" lean-forward="true" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bomolib.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="90" column="10" lean-forward="true" selection-start-line="90" selection-start-column="10" selection-end-line="90" selection-end-column="10" />
+        <state relative-caret-position="299">
+          <caret line="36" column="49" lean-forward="false" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cailiaolib.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="35" column="50" lean-forward="false" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="35" column="50" lean-forward="false" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/changepsd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shiyanshigaikuang/xueshuweiyuanhui/11.html">
+    <entry file="file://$PROJECT_DIR$/eidt.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="92" column="143" lean-forward="false" selection-start-line="92" selection-start-column="143" selection-end-line="92" selection-end-column="143" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guangdianlib.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="36" column="50" lean-forward="false" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guoneiwaiyanjiu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="35" column="50" lean-forward="false" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyanteam.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="35" column="50" lean-forward="false" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libinfo.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="49" column="50" lean-forward="false" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libinforead.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="49" column="50" lean-forward="false" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newae.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personinfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="35" column="49" lean-forward="false" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personinfo_papers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="40" column="50" lean-forward="false" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personinfo_project.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="35" column="49" lean-forward="false" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/role_new.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiyanshidongtai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="35" column="49" lean-forward="false" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/systemmanage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1035">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team_new.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2277">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1494923666915" expanded="true" signature="7909:8018" ph="//..." />
+            <marker date="1494923666915" expanded="true" signature="8113:8259" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="8299:8435" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="8478:8641" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="8686:8794" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="8837:8927" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="8970:9262" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="9306:9733" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="9412:9645" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="9650:9723" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="9786:10064" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="10108:10251" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="10295:10416" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="10457:10794" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="10841:11264" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="10948:11161" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="11166:11239" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="11306:11385" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="11430:11549" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="11595:12135" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="11815:12113" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="11864:11980" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="11986:12087" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="12177:12527" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="12397:12505" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="12574:12682" ph="{...}" />
+            <marker date="1494923666915" expanded="true" signature="12731:12874" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="37" column="30" lean-forward="true" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongzhigonggao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="35" column="49" lean-forward="false" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/use_new.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2070">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usermanage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2070">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xueshujiaoliu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="42" column="33" lean-forward="true" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kexueyuanjiu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="77" column="12" lean-forward="true" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiyanshigaikuang/shiyanshijianjie/8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="108" column="10" lean-forward="true" selection-start-line="108" selection-start-column="10" selection-end-line="108" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libbaseinfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="85" column="109" lean-forward="true" selection-start-line="85" selection-start-column="109" selection-end-line="85" selection-end-column="109" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="184" column="82" lean-forward="true" selection-start-line="184" selection-start-column="82" selection-end-line="184" selection-end-column="82" />
-          <folding />
+        <state relative-caret-position="161">
+          <caret line="190" column="0" lean-forward="true" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
